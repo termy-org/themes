@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Termy Theme Registry Index",
+  "type": "object",
+  "required": ["version", "themes"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "version": { "type": "integer", "const": 1 },
+    "themes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "slug", "latestVersion", "file", "checksumSha256"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+          "description": { "type": "string" },
+          "latestVersion": { "type": "string" },
+          "file": { "type": "string", "pattern": "^themes/[a-z0-9-]+/files/[A-Za-z0-9.+-]+\\.json$" },
+          "checksumSha256": { "type": "string", "pattern": "^[0-9a-fA-F]{64}$" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

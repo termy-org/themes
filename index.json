@@ -1,0 +1,5 @@
+{
+  "$schema": "./schemas/theme-index.schema.json",
+  "version": 1,
+  "themes": []
+}
