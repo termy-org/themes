@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Catppuccin Macchiato",
+  "slug": "catppuccin-macchiato",
+  "description": "Catppuccin Macchiato Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "6e5edd331be98472c53f87c620bf2509b1c335d8039fa11c2947cc957123d41d"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Solarized Dark",
+  "slug": "solarized-dark",
+  "description": "Solarized Dark Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "5bca87e093c17f647829330d2c4e6df5afe6c46c1edb0a602d5083c4bad70e87"
+    }
+  ]
+}

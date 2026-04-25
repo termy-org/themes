@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Oceanic Next",
+  "slug": "oceanic-next",
+  "description": "Oceanic Next Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "2a7606e2d7f605413d8ace7bd85e0cadeef62159266148cf2b1080e29ce50b0e"
+    }
+  ]
+}

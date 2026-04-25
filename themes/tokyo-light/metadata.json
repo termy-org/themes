@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Tokyo Light",
+  "slug": "tokyo-light",
+  "description": "A light version of tokyo night",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "247d5079266700e3658e22b123a139f3eb8caaa2f5dea9cdb87e590c653fefab"
+    }
+  ]
+}

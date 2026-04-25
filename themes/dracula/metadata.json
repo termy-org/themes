@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Dracula",
+  "slug": "dracula",
+  "description": "Dracula Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "0f0e8f228637a52cefc13fb9d34efb6cb646f926080d8855a47b34bd45e4231c"
+    }
+  ]
+}

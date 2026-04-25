@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Rose Pine",
+  "slug": "rose-pine",
+  "description": "Rose Pine Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "fec30d3347fc0ce22c3793aec741fbac59afd4c7739ece2e9714ccdc0231070f"
+    }
+  ]
+}

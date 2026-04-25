@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Monokai",
+  "slug": "monokai",
+  "description": "Monokai Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "c677eb388913e02bb4e4128b5a3e9c07d42e239d2589ceb49300b97ecb52e9c3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Palenight",
+  "slug": "palenight",
+  "description": "Palenight Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "ac9a18d29dff2c04cb027d95b4a91d4ff5b50e2c365a3809c6bd381c90a1419e"
+    }
+  ]
+}

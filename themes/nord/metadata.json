@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Nord",
+  "slug": "nord",
+  "description": "Nord Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "eb553672c3749df16295a8b8d0c94c14a7acb705b155a1b9cb6e402116d66445"
+    }
+  ]
+}

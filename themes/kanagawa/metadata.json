@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Kanagawa",
+  "slug": "kanagawa",
+  "description": "Kanagawa theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "faa182107ab5b85b011127ffb211e7753b0cd2ea82fd5b6d61e07d8157a87c87"
+    }
+  ]
+}

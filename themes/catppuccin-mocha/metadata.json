@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Catppuccin Mocha",
+  "slug": "catppuccin-mocha",
+  "description": "Catppuccin Mocha Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "0b82241d95919ab1ecf5d8807cc47a333269cc692cbb40f2a29722dc06d8ca14"
+    }
+  ]
+}

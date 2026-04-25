@@ -1,0 +1,22 @@
+{
+  "$schema": "../../../schemas/theme.schema.json",
+  "background": "#000000",
+  "black": "#0a0a0a",
+  "blue": "#0070f3",
+  "bright_black": "#3a3a3a",
+  "bright_blue": "#4da3ff",
+  "bright_cyan": "#4de7ff",
+  "bright_green": "#2bffb1",
+  "bright_magenta": "#ff6bda",
+  "bright_red": "#ff7070",
+  "bright_white": "#ffffff",
+  "bright_yellow": "#ffd27a",
+  "cursor": "#ffffff",
+  "cyan": "#00c7d4",
+  "foreground": "#ededed",
+  "green": "#00d37a",
+  "magenta": "#ff2bbe",
+  "red": "#ff4d4d",
+  "white": "#ededed",
+  "yellow": "#f5a623"
+}

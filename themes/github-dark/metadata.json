@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Github Dark",
+  "slug": "github-dark",
+  "description": "Github Dark Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "1cd7d3f849a72a4984fcdae0e0de01b15034efde69e7501165549eb1cd9f3e92"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Termy",
+  "slug": "termy",
+  "description": "The termy theme ",
+  "latestVersion": "0.1.0",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "file": "files/0.1.0.json",
+      "checksumSha256": "b249fce2fbd077c917a128e1ab345f4d0b5ab9f1f40d5cefa3fa31484a811e38"
+    }
+  ]
+}

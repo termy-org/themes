@@ -1,5 +1,213 @@
 {
-  "$schema": "./schemas/theme-index.schema.json",
   "version": 1,
-  "themes": []
+  "themes": [
+    {
+      "name": "Ayu Mirage",
+      "slug": "ayu-mirage",
+      "description": "Ayu Mirage Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/ayu-mirage/files/1.0.0.json",
+      "checksumSha256": "691f4f8db5a2ef81e798871261ffcca1c7a49c41cfb74d118c81d804b4942ec5"
+    },
+    {
+      "name": "Catppuccin Macchiato",
+      "slug": "catppuccin-macchiato",
+      "description": "Catppuccin Macchiato Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/catppuccin-macchiato/files/1.0.0.json",
+      "checksumSha256": "6e5edd331be98472c53f87c620bf2509b1c335d8039fa11c2947cc957123d41d"
+    },
+    {
+      "name": "Catppuccin Mocha",
+      "slug": "catppuccin-mocha",
+      "description": "Catppuccin Mocha Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/catppuccin-mocha/files/1.0.0.json",
+      "checksumSha256": "0b82241d95919ab1ecf5d8807cc47a333269cc692cbb40f2a29722dc06d8ca14"
+    },
+    {
+      "name": "Clean Dark",
+      "slug": "clean-dark",
+      "description": "A clean dark theme",
+      "latestVersion": "0.1.0",
+      "file": "themes/clean-dark/files/0.1.0.json",
+      "checksumSha256": "b648f8378be7169d58729518ec822572d67d2ee78de329bfcc6f736f007ae391"
+    },
+    {
+      "name": "Dracula",
+      "slug": "dracula",
+      "description": "Dracula Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/dracula/files/1.0.0.json",
+      "checksumSha256": "0f0e8f228637a52cefc13fb9d34efb6cb646f926080d8855a47b34bd45e4231c"
+    },
+    {
+      "name": "Github Dark",
+      "slug": "github-dark",
+      "description": "Github Dark Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/github-dark/files/1.0.0.json",
+      "checksumSha256": "1cd7d3f849a72a4984fcdae0e0de01b15034efde69e7501165549eb1cd9f3e92"
+    },
+    {
+      "name": "Gruvbox Dark",
+      "slug": "gruvbox-dark",
+      "description": "Gruvbox Dark Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/gruvbox-dark/files/1.0.0.json",
+      "checksumSha256": "72f7b2f33160674343ecae5794d344b5829db668622ad2537f1739ae247a52e4"
+    },
+    {
+      "name": "Kanagawa",
+      "slug": "kanagawa",
+      "description": "Kanagawa theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/kanagawa/files/1.0.0.json",
+      "checksumSha256": "faa182107ab5b85b011127ffb211e7753b0cd2ea82fd5b6d61e07d8157a87c87"
+    },
+    {
+      "name": "Material Dark",
+      "slug": "material-dark",
+      "description": "Material Dark Theme",
+      "latestVersion": "1.1.0",
+      "file": "themes/material-dark/files/1.1.0.json",
+      "checksumSha256": "f7daa73c195c5c8d110d6fbc10510f1c2322e4d05d0f56f3fa2a0ff9a7360138"
+    },
+    {
+      "name": "Midnight",
+      "slug": "midnight",
+      "description": "A clean midnight theme",
+      "latestVersion": "1.1.0",
+      "file": "themes/midnight/files/1.1.0.json",
+      "checksumSha256": "bbf4f6c3414b8ea62be09d446b35a5a7a58ac245e7bda4eb20dbf8094a8e8f9e"
+    },
+    {
+      "name": "Monokai",
+      "slug": "monokai",
+      "description": "Monokai Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/monokai/files/1.0.0.json",
+      "checksumSha256": "c677eb388913e02bb4e4128b5a3e9c07d42e239d2589ceb49300b97ecb52e9c3"
+    },
+    {
+      "name": "Nord",
+      "slug": "nord",
+      "description": "Nord Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/nord/files/1.0.0.json",
+      "checksumSha256": "eb553672c3749df16295a8b8d0c94c14a7acb705b155a1b9cb6e402116d66445"
+    },
+    {
+      "name": "Oceanic Next",
+      "slug": "oceanic-next",
+      "description": "Oceanic Next Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/oceanic-next/files/1.0.0.json",
+      "checksumSha256": "2a7606e2d7f605413d8ace7bd85e0cadeef62159266148cf2b1080e29ce50b0e"
+    },
+    {
+      "name": "One Dark",
+      "slug": "one-dark",
+      "description": "",
+      "latestVersion": "1.0.0",
+      "file": "themes/one-dark/files/1.0.0.json",
+      "checksumSha256": "7b8a832b238651d69c36df8fd4d63a7332faac7e1f64bd3a5a961feb0cae4165"
+    },
+    {
+      "name": "Palenight",
+      "slug": "palenight",
+      "description": "Palenight Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/palenight/files/1.0.0.json",
+      "checksumSha256": "ac9a18d29dff2c04cb027d95b4a91d4ff5b50e2c365a3809c6bd381c90a1419e"
+    },
+    {
+      "name": "Rose Pine",
+      "slug": "rose-pine",
+      "description": "Rose Pine Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/rose-pine/files/1.0.0.json",
+      "checksumSha256": "fec30d3347fc0ce22c3793aec741fbac59afd4c7739ece2e9714ccdc0231070f"
+    },
+    {
+      "name": "Rust Theme",
+      "slug": "rust-theme",
+      "description": "A rust inspired theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/rust-theme/files/1.0.0.json",
+      "checksumSha256": "49a5cf8cfff62f522df8f0d055f8976c3f084184e538e8c3f0fd5d3243fd62d4"
+    },
+    {
+      "name": "Solarized Dark",
+      "slug": "solarized-dark",
+      "description": "Solarized Dark Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/solarized-dark/files/1.0.0.json",
+      "checksumSha256": "5bca87e093c17f647829330d2c4e6df5afe6c46c1edb0a602d5083c4bad70e87"
+    },
+    {
+      "name": "Termy",
+      "slug": "termy",
+      "description": "The termy theme ",
+      "latestVersion": "0.1.0",
+      "file": "themes/termy/files/0.1.0.json",
+      "checksumSha256": "b249fce2fbd077c917a128e1ab345f4d0b5ab9f1f40d5cefa3fa31484a811e38"
+    },
+    {
+      "name": "Termy Light",
+      "slug": "termy-light",
+      "description": "The Termy Theme But Lightmode for Aliens 👽",
+      "latestVersion": "1.2.0",
+      "file": "themes/termy-light/files/1.2.0.json",
+      "checksumSha256": "5097e44502707fba89f527bd65b651ee663cd91e25fd296025db9248d44aa747"
+    },
+    {
+      "name": "Tokyo Light",
+      "slug": "tokyo-light",
+      "description": "A light version of tokyo night",
+      "latestVersion": "1.0.0",
+      "file": "themes/tokyo-light/files/1.0.0.json",
+      "checksumSha256": "247d5079266700e3658e22b123a139f3eb8caaa2f5dea9cdb87e590c653fefab"
+    },
+    {
+      "name": "Tokyo Night",
+      "slug": "tokyo-night",
+      "description": "Tokyo Night Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/tokyo-night/files/1.0.0.json",
+      "checksumSha256": "3fd67f2ef73df177e8ab3286863f3329b959545979487a265a4835287a9e2eed"
+    },
+    {
+      "name": "Tokyo Night Storm",
+      "slug": "tokyo-night-storm",
+      "description": "Tokyo Night STorm Theme",
+      "latestVersion": "0.1.0",
+      "file": "themes/tokyo-night-storm/files/0.1.0.json",
+      "checksumSha256": "6be604b1b559b97506fe2dcf11b19b2c1a44ef8e04e791b7efe9238d3337f646"
+    },
+    {
+      "name": "Tokyo Night Storm Darker",
+      "slug": "tokyo-night-storm-darker",
+      "description": "Tokyo Night Storm Darker Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/tokyo-night-storm-darker/files/1.0.0.json",
+      "checksumSha256": "3fd67f2ef73df177e8ab3286863f3329b959545979487a265a4835287a9e2eed"
+    },
+    {
+      "name": "Tommrow Night",
+      "slug": "tommrow-night",
+      "description": "Tommrow Night Theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/tommrow-night/files/1.0.0.json",
+      "checksumSha256": "4429ada81f988f80a39a8dab432a8deb07047f3d970231c6055f849d967b6e2b"
+    },
+    {
+      "name": "Vercel Theme",
+      "slug": "vercel-theme",
+      "description": "A clean dark vercel theme",
+      "latestVersion": "0.0.1",
+      "file": "themes/vercel-theme/files/0.0.1.json",
+      "checksumSha256": "e8783a88afe2ace3c7f46f121c11b97b4348488c5baab19b9dd617656a781ec1"
+    }
+  ]
 }

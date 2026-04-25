@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Gruvbox Dark",
+  "slug": "gruvbox-dark",
+  "description": "Gruvbox Dark Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "72f7b2f33160674343ecae5794d344b5829db668622ad2537f1739ae247a52e4"
+    }
+  ]
+}

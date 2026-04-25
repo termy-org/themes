@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Ayu Mirage",
+  "slug": "ayu-mirage",
+  "description": "Ayu Mirage Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "691f4f8db5a2ef81e798871261ffcca1c7a49c41cfb74d118c81d804b4942ec5"
+    }
+  ]
+}

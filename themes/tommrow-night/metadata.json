@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Tommrow Night",
+  "slug": "tommrow-night",
+  "description": "Tommrow Night Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "4429ada81f988f80a39a8dab432a8deb07047f3d970231c6055f849d967b6e2b"
+    }
+  ]
+}

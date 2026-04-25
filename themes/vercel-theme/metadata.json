@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Vercel Theme",
+  "slug": "vercel-theme",
+  "description": "A clean dark vercel theme",
+  "latestVersion": "0.0.1",
+  "versions": [
+    {
+      "version": "0.0.1",
+      "file": "files/0.0.1.json",
+      "checksumSha256": "e8783a88afe2ace3c7f46f121c11b97b4348488c5baab19b9dd617656a781ec1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "One Dark",
+  "slug": "one-dark",
+  "description": "",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "7b8a832b238651d69c36df8fd4d63a7332faac7e1f64bd3a5a961feb0cae4165"
+    }
+  ]
+}

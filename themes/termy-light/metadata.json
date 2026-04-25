@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Termy Light",
+  "slug": "termy-light",
+  "description": "The Termy Theme But Lightmode for Aliens 👽",
+  "latestVersion": "1.2.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "2495352591421ae9f4aaceb557461eec9a9fc67084d6e5a4b73ee1908e918bec"
+    },
+    {
+      "version": "1.2.0",
+      "file": "files/1.2.0.json",
+      "changelog": "Fixed background lol",
+      "checksumSha256": "5097e44502707fba89f527bd65b651ee663cd91e25fd296025db9248d44aa747"
+    }
+  ]
+}

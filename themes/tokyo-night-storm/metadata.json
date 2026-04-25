@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Tokyo Night Storm",
+  "slug": "tokyo-night-storm",
+  "description": "Tokyo Night STorm Theme",
+  "latestVersion": "0.1.0",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "file": "files/0.1.0.json",
+      "checksumSha256": "6be604b1b559b97506fe2dcf11b19b2c1a44ef8e04e791b7efe9238d3337f646"
+    }
+  ]
+}

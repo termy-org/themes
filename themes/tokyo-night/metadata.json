@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Tokyo Night",
+  "slug": "tokyo-night",
+  "description": "Tokyo Night Theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "3fd67f2ef73df177e8ab3286863f3329b959545979487a265a4835287a9e2eed"
+    }
+  ]
+}

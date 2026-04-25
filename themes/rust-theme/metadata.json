@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Rust Theme",
+  "slug": "rust-theme",
+  "description": "A rust inspired theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "49a5cf8cfff62f522df8f0d055f8976c3f084184e538e8c3f0fd5d3243fd62d4"
+    }
+  ]
+}
