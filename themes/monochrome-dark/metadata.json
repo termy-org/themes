@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Monochrome Dark",
+  "slug": "monochrome-dark",
+  "description": "A crisp grayscale dark theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "2c82b33b32f4e4999b7b18db06e865e9772a0bc92b0b8a7daba863f4ddf7322e"
+    }
+  ]
+}

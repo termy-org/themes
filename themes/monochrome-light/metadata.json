@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/theme-metadata.schema.json",
+  "name": "Monochrome Light",
+  "slug": "monochrome-light",
+  "description": "A crisp grayscale light theme",
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "files/1.0.0.json",
+      "checksumSha256": "3ff6b01f5d5eb64c2f4f97fc5c8094da76a3dfc0445865fd764a29673a982654"
+    }
+  ]
+}

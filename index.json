@@ -82,6 +82,22 @@
       "checksumSha256": "bbf4f6c3414b8ea62be09d446b35a5a7a58ac245e7bda4eb20dbf8094a8e8f9e"
     },
     {
+      "name": "Monochrome Dark",
+      "slug": "monochrome-dark",
+      "description": "A crisp grayscale dark theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/monochrome-dark/files/1.0.0.json",
+      "checksumSha256": "2c82b33b32f4e4999b7b18db06e865e9772a0bc92b0b8a7daba863f4ddf7322e"
+    },
+    {
+      "name": "Monochrome Light",
+      "slug": "monochrome-light",
+      "description": "A crisp grayscale light theme",
+      "latestVersion": "1.0.0",
+      "file": "themes/monochrome-light/files/1.0.0.json",
+      "checksumSha256": "3ff6b01f5d5eb64c2f4f97fc5c8094da76a3dfc0445865fd764a29673a982654"
+    },
+    {
       "name": "Monokai",
       "slug": "monokai",
       "description": "Monokai Theme",
