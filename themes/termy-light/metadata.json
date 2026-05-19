@@ -3,7 +3,7 @@
   "name": "Termy Light",
   "slug": "termy-light",
   "description": "The Termy Theme But Lightmode for Aliens 👽",
-  "latestVersion": "1.2.0",
+  "latestVersion": "1.3.0",
   "versions": [
     {
       "version": "1.0.0",
@@ -15,6 +15,12 @@
       "file": "files/1.2.0.json",
       "changelog": "Fixed background lol",
       "checksumSha256": "5097e44502707fba89f527bd65b651ee663cd91e25fd296025db9248d44aa747"
+    },
+    {
+      "version": "1.3.0",
+      "file": "files/1.3.0.json",
+      "changelog": "Rebrand to match Termy dark: lime accent #A7E9A3 on warm off-white",
+      "checksumSha256": "477aabece5cd6ce14a270903f959b027fa3141883fe8fc385d0670900b7d11c8"
     }
   ]
 }
